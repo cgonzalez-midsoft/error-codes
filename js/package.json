@@ -1,0 +1,19 @@
+{
+  "name": "mo-error-codes",
+  "version": "1.0.0",
+  "description": "Shared error codes for MiObra",
+  "main": "MoErrorCodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgonzalez-midsoft/error-codes.git"
+  },
+  "author": "Mid Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgonzalez-midsoft/error-codes/issues"
+  },
+  "homepage": "https://github.com/cgonzalez-midsoft/error-codes#readme"
+}
