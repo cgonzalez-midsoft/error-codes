@@ -5,6 +5,7 @@ enums:
     B: "Segundo mensaje de error"
     C: 8
     D: "asdf"
+    E: "qwerty"
 - name: OtherEnum
   values:
     FOO: "asdf"

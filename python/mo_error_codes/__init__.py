@@ -9,6 +9,7 @@ class SomeEnum(Enum):
 	B = "Segundo mensaje de error"
 	C = 8
 	D = "asdf"
+	E = "qwerty"
 
 class OtherEnum(Enum):
 	FOO = "asdf"

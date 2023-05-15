@@ -8,6 +8,7 @@ export const SomeEnum = {
 	B: "Segundo mensaje de error",
 	C: 8,
 	D: "asdf",
+	E: "qwerty",
 }
 export const OtherEnum = {
 	FOO: "asdf",
