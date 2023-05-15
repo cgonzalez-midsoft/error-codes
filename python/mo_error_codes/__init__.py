@@ -2,14 +2,13 @@
 from enum import Enum
 
 # constants
-SOME_CONSTANT = "this is a constant string"
-OTHER_CONSTANT = 42
 
 # enums
 class SomeEnum(Enum):
 	A = "Primer mensaje de error"
 	B = "Segundo mensaje de error"
 	C = 8
+	D = "asdf"
 
 class OtherEnum(Enum):
 	FOO = "asdf"
